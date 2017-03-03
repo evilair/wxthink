@@ -1,0 +1,137 @@
+[ 2017-01-06T15:06:26+08:00 ] ::1 /wxThink/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.035002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-06T15:07:31+08:00 ] ::1 /wxThink/index.php/Home/Test/getQRcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 模板不存在:./weixin/Home/View/Test/getQRcode.html
+
+[ 2017-01-06T15:08:08+08:00 ] ::1 /wxThink/index.php/Home/Test/getQRcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.037002s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.037002s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.174609s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.175609s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.016001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-06T15:08:45+08:00 ] ::1 /wxThink/index.php/Home/Index/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: access_token G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php 第 353 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\IndexController::http_curl(), called in G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php on line 356 and defined G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php 第 322 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\IndexController::http_curl(), called in G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php on line 535 and defined G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php 第 322 行.
+NOTIC: [8] Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php 第 561 行.
+NOTIC: [8] Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php 第 561 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-01-06T15:09:05+08:00 ] ::1 /wxThink/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-06T15:47:25+08:00 ] ::1 /wxThink/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-06T18:10:57+08:00 ] ::1 /wxThink/index.php/Home/Index/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: access_token G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php 第 353 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\IndexController::http_curl(), called in G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php on line 356 and defined G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php 第 322 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\IndexController::http_curl(), called in G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php on line 535 and defined G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php 第 322 行.
+NOTIC: [8] Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php 第 561 行.
+NOTIC: [8] Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php 第 561 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.214012s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.214012s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-06T18:10:58+08:00 ] ::1 /wxThink/index.php/Home/Index/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: access_token G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php 第 353 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\IndexController::http_curl(), called in G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php on line 356 and defined G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php 第 322 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\IndexController::http_curl(), called in G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php on line 535 and defined G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php 第 322 行.
+NOTIC: [8] Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php 第 561 行.
+NOTIC: [8] Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' G:\PHPSites\news\wxThink\weixin\Home\Controller\IndexController.class.php 第 561 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

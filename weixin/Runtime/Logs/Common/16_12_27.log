@@ -1,0 +1,30 @@
+[ 2016-12-27T22:06:13+08:00 ] 127.0.0.1 /Imooc/index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+ERR: 无法加载模块:Index
+
+[ 2016-12-27T22:06:25+08:00 ] 127.0.0.1 /Imooc/index.php/Index/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 无法加载模块:Index
+
+[ 2016-12-27T22:06:40+08:00 ] 127.0.0.1 /Imooc/index.php/Index/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+ERR: 无法加载模块:Index
+
+[ 2016-12-27T22:06:43+08:00 ] 127.0.0.1 /Imooc/index.php/Index/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Index
+
+[ 2016-12-27T22:12:44+08:00 ] 127.0.0.1 /Imooc/index.php/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+ERR: 无法加载模块:Index
+
